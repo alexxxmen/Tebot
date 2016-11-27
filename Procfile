@@ -1,0 +1,1 @@
+web: gunicorn tebot:app
