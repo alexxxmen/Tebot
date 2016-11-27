@@ -1,2 +1,2 @@
 # Tebot
-Help bot for telegram
+It is used to obtain information about you
