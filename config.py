@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*-
 
-TOKEN = '302147999:AAEfN8umcNTf04u5h2ZD20tkGc68SfwMnEc'
+TOKEN = '283186527:AAEF9LBiLrCiwUEiuBNhqsvf9Kd0f_9WrH8'
 API_URL = 'https://api.telegram.org/bot'
